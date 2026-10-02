@@ -1,0 +1,6 @@
+{
+  "name": "Sameer's Finance Suite",
+  "description": "Minimalist, human-centric personal finance planning, rollover vaults, and smart budget guardrails.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
